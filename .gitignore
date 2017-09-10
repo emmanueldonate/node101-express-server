@@ -1,0 +1,4 @@
+*.log
+.vscode
+SD_Store
+node_modules
